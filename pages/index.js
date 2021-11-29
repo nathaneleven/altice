@@ -5,7 +5,6 @@ import Cta from '../src/components/organisms/Cta'
 import Plans from '../src/components/organisms/Plans'
 import About from '../src/components/organisms/About'
 import Advantages from '../src/components/organisms/Advantages'
-import Whatyouget from '../src/components/organisms/Whatyouget'
 
 export default function Home() {
   return (
@@ -16,7 +15,6 @@ export default function Home() {
       <Plans/>
       <Advantages/>
       <About/>
-      <Whatyouget/>
       <Footer/>
     </div>
   )
